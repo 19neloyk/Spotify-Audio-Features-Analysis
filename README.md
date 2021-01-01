@@ -13,4 +13,4 @@ In order to exit, type `exit`.
 # Getting a developer token from spotify
 **You need a spotify developer token in order to run this script, in order to get one, go to https://developer.spotify.com/console/get-search-item/?q=abba&type=track&market=US and go click "Get Token"**
 
-![Image of the Button](https://github.com/19neloyk/Search-Song_Attributes/blob/main/Screen%20Shot%202021-01-01%20at%201.10.45%20AM.png =100x50)
+<img src="https://github.com/19neloyk/Search-Song_Attributes/blob/main/Screen%20Shot%202021-01-01%20at%201.10.45%20AM.png" width="100" height="70" />
