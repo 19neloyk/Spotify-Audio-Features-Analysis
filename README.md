@@ -1,4 +1,4 @@
-# Search-Song-Attributes
+# Spotify-Audio-Features-Analysis
 Python script that allows user to search for the audio attributes of a particular song using the Spotify API. 
 The entered song's name does not have to be written entirely correctly.
 
